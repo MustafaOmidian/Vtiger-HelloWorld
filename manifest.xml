@@ -7,6 +7,6 @@
     <version>1.0</version>
     <dependencies>
         <vtiger_version>7.0.0</vtiger_version>
-        <vtiger_max_version>7.*s</vtiger_max_version>
+        <vtiger_max_version>7.*</vtiger_max_version>
     </dependencies>
 </module>
